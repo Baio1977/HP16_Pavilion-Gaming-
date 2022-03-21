@@ -4,38 +4,23 @@
 [![](https://img.shields.io/badge/Facebook-HackintoshLifeIT-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/hackintoshlife/)
 [![](https://img.shields.io/badge/Instagram-HackintoshLifeIT-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/hackintoshlife.it_official/)
 
-# Asus Vivobook Pro N580VD
+# HP16 Pavilion Gaming
 
-![descrizione](./Screenshot/1.jpg)
+![descrizione](./Screenshot/1.png)
 
 ## Computer Spec:
 
 | Component          | Brank                               |
 | ------------------ | ----------------------------------  |
-| CPU                | Intel® i7 7700HQ (KL)               |
-| IGPU               | Intel® HD Graphics 630              |
-| dGPU               | Nvidia 1050 GTX (disabled on macOs) |
+| CPU                | Intel® i7-10750H (CometLake)        |
+| IGPU               | Intel® UHD Graphics 630             |
+| dGPU               | Nvidia 1060 GTX (disabled on macOs) |
 | Display            | 1920x1080                           |
-| Audio              | Conexant Audio CX8150               |
-| Ram                | 32GB                                |
+| Audio              | Realtek ALC CX8150                  |
+| Ram                | 16GB                                |
 | SSD                | Kingstone A400 128gb                |
-| SmBios             | MacbookPro 14,3                     |
+| SmBios             | MacbookPro 16,4                     |
 | BootLoader         | OpenCore                            |
-
-### BIOS SETTINGS:
-
-- BIOS VER: 315
-- Secureboot: Disabled
-- Fastboot: Disabled
-- CSM Support: Disabled
-- Legacy USB Support: Disabled
-- Sata mode: AHCI
-- DVMT Pre-Allocated: 64M
-
-### DCPIManager
-
-![descrizione](./Screenshot/2.jpg)
-![descrizione](./Screenshot/3.jpg)
 
 ### Trackpad
 
