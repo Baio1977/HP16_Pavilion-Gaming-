@@ -6,7 +6,7 @@
 
 # HP16 Pavilion Gaming
 
-![descrizione](./Screenshot/1.jpg)
+![descrizione](./Screenshot/1.png)
 
 ## Computer Spec:
 
