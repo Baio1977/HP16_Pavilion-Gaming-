@@ -16,7 +16,7 @@
 | IGPU               | Intel® UHD Graphics 630             |
 | dGPU               | Nvidia 1060 GTX (disabled on macOs) |
 | Display            | 1920x1080                           |
-| Audio              | Realtek ALC CX8150                  |
+| Audio              | Realtek ALC 245 |
 | Ram                | 16GB                                |
 | SSD                | Kingstone A400 128gb                |
 | SmBios             | MacbookPro 16,4                     |
