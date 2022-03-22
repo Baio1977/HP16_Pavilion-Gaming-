@@ -23,6 +23,7 @@
 | BootLoader         | OpenCore                            |
 
 ### Trackpad
+
 ```swift
 Scope (I2C1)
 {
@@ -40,6 +41,6 @@ Scope (I2C1)
     }
 }     
 ```               
-![descrizione](./Screenshot/4.png)
+![descrizione](./ScreenShot/4.png)
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
