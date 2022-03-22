@@ -24,7 +24,7 @@
 
 ### Trackpad
 
-# Patch ACPI 
+## Patch ACPI 
 
 ```swift
 Scope (I2C1)
