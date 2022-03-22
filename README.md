@@ -23,7 +23,23 @@
 | BootLoader         | OpenCore                            |
 
 ### Trackpad
+```swift
+                Scope (I2C1)
+                {
+                    If (_OSI ("Darwin"))
+                    {
+                        Name (USTP, One)
+                    }
 
+                    Scope (TPD0)
+                    {
+                        If (_OSI ("Darwin"))
+                        {
+                            Name (OSYS, 0x07DC)
+                        }
+                    }
+                }
+```               
 ![descrizione](./Screenshot/4.png)
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
