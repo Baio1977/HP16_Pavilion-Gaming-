@@ -6,7 +6,7 @@
 
 # HP16 Pavilion Gaming
 
-![descrizione](./Screenshot/1.png)
+![descrizione](./ScreenShot/1.png)
 
 ## Computer Spec:
 
@@ -24,21 +24,21 @@
 
 ### Trackpad
 ```swift
-                Scope (I2C1)
-                {
-                    If (_OSI ("Darwin"))
-                    {
-                        Name (USTP, One)
-                    }
-
-                    Scope (TPD0)
-                    {
-                        If (_OSI ("Darwin"))
-                        {
-                            Name (OSYS, 0x07DC)
-                        }
-                    }
-                }
+Scope (I2C1)
+{
+    If (_OSI ("Darwin"))
+    {
+        Name (USTP, One)
+    }
+    
+    Scope (TPD0)
+    {
+        If (_OSI ("Darwin"))
+        {
+             Name (OSYS, 0x07DC)
+        }        
+    }
+}     
 ```               
 ![descrizione](./Screenshot/4.png)
 
