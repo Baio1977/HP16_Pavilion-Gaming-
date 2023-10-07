@@ -47,6 +47,6 @@ Scope (I2C1)
 
 ## SSDT Full Hack
 
-![Lenovo](./Screenshot/2.png)
-![Lenovo](./Screenshot/3.png)
+![HP](./Screenshot/2.png)
+![HP](./Screenshot/3.png)
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
