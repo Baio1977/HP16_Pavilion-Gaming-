@@ -47,7 +47,7 @@ Scope (I2C1)
 
 ## SSDT Full Hack
 
-![descrizione](./Screenshot/2.png)
-![descrizione](./Screenshot/3.png)
+![descrizione](./ScreenShot/2.png)
+![descrizione](./ScreenShot/3.png)
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
